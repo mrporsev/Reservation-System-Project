@@ -1,4 +1,4 @@
-# Reservation system for school with admin tools
+# Reservation system with admin tools
 
 This project was part of the course Network programming ID1212.
 
